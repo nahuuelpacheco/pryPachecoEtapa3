@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryPachecoEtapa3", "pryPachecoEtapa3.csproj", "{68032333-5C90-430C-B464-44099BE16A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68032333-5C90-430C-B464-44099BE16A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68032333-5C90-430C-B464-44099BE16A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68032333-5C90-430C-B464-44099BE16A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68032333-5C90-430C-B464-44099BE16A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BA9516B-42A1-474E-90CE-2B2BF6F2E6ED}
+	EndGlobalSection
+EndGlobal
