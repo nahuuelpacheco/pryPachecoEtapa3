@@ -38,7 +38,7 @@ namespace pryPachecoEtapa3
             // lblVehiculo
             // 
             this.lblVehiculo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lblVehiculo.Location = new System.Drawing.Point(256, 291);
+            this.lblVehiculo.Location = new System.Drawing.Point(250, 291);
             this.lblVehiculo.Name = "lblVehiculo";
             this.lblVehiculo.Size = new System.Drawing.Size(179, 73);
             this.lblVehiculo.TabIndex = 4;

@@ -57,7 +57,7 @@ namespace pryPachecoEtapa3
 
         private void btnBarco_Click(object sender, EventArgs e)
         {
-            objAvion.CrearBarco();
+            objBarco.CrearBarco();
             objBarco.pctBarco.Location = new Point(250, 50);
             Controls.Add(objBarco.pctBarco);
             lblVehiculo.Text = objBarco.tipoVehiculo;
